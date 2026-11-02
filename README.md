@@ -74,3 +74,4 @@ The full notebook runs in about 2 minutes on a laptop.
 ## Credits
 
 Built with Jordan Burmeister and Aimee Gaskin Fryer as a group project for a Data Wrangling & Machine Learning course at Massey University, then rebuilt and extended.
+Cleaned up and commited by Claude Code
